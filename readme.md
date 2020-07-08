@@ -19,7 +19,7 @@ MIT-Driverless-CV-TrainingInfra](https://github.com/cv-core/MIT-Driverless-CV-Tr
 This repository improves upon the original dataset by adding in the following class labels.
 
 * `0` Blue
-* `1` Oragne
+* `1` Orange
 * `2` Yellow
 * `3` False Positive (including cones of other colours, or cases where there are no traffic cones within bounding box)
 
